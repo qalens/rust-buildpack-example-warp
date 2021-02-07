@@ -1,0 +1,11 @@
+{
+  "name": "Example Rust application",
+  "description": "A barebones Rust application using the Warp framework",
+  "repository": "https://github.com/qalens/rust-buildpack-example-warp",
+  "success_url": "/",
+  "keywords": ["rust", "warp"],
+  "website": "https://github.com/qalens/rust-buildpack-example-warp",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/emk/heroku-buildpack-rust.git"
+  }
+}
