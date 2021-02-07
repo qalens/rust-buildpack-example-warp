@@ -29,6 +29,6 @@ For further instructions, see the [page for this buildpack][buildpack].
 
 ## Does this work with the latest version of Rust?
 
-This application works with version 1.31 of Rust, which theoretically means
+This application works with version 1.49 of Rust, which theoretically means
 that it should run on any future 1.x release of Rust. If it doesn't work,
 please file a bug.
